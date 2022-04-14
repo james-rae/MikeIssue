@@ -1,2 +1,3 @@
 # MikeIssue
-Quick launcher for when Mike wants answers
+
+Quick github issue launcher for when Mike wants answers.
